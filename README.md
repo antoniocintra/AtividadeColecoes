@@ -3,7 +3,7 @@
  Este repositório contem atividade prática do curso "Coleções Chaveadas " que faz parte do Bootcamp Take Blip Web Developer
 
 # Atividade 1: Maps
-criei uma função  que retorna o nome dos membros de um Map que tem o papel 'Admin' no sistema em 3 passos:
+criar uma função  que retorna o nome dos membros de um Map que tem o papel 'Admin' no sistema em 3 passos:
 
 1) Criar uma função getAdmin que recebe um Map.
 
